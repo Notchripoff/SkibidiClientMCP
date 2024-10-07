@@ -1,0 +1,2 @@
+# SkibidiClientMCP
+MCPskibidiclient
